@@ -1,0 +1,13 @@
+C:\Users\thiag\source\repos\Lista2deExercicios\Lista2deExercicios\bin\Debug\netcoreapp3.1\Lista2deExercicios.exe
+C:\Users\thiag\source\repos\Lista2deExercicios\Lista2deExercicios\bin\Debug\netcoreapp3.1\Lista2deExercicios.deps.json
+C:\Users\thiag\source\repos\Lista2deExercicios\Lista2deExercicios\bin\Debug\netcoreapp3.1\Lista2deExercicios.runtimeconfig.json
+C:\Users\thiag\source\repos\Lista2deExercicios\Lista2deExercicios\bin\Debug\netcoreapp3.1\Lista2deExercicios.runtimeconfig.dev.json
+C:\Users\thiag\source\repos\Lista2deExercicios\Lista2deExercicios\bin\Debug\netcoreapp3.1\Lista2deExercicios.dll
+C:\Users\thiag\source\repos\Lista2deExercicios\Lista2deExercicios\bin\Debug\netcoreapp3.1\Lista2deExercicios.pdb
+C:\Users\thiag\source\repos\Lista2deExercicios\Lista2deExercicios\obj\Debug\netcoreapp3.1\Lista2deExercicios.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\Lista2deExercicios\Lista2deExercicios\obj\Debug\netcoreapp3.1\Lista2deExercicios.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\Lista2deExercicios\Lista2deExercicios\obj\Debug\netcoreapp3.1\Lista2deExercicios.AssemblyInfo.cs
+C:\Users\thiag\source\repos\Lista2deExercicios\Lista2deExercicios\obj\Debug\netcoreapp3.1\Lista2deExercicios.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Lista2deExercicios\Lista2deExercicios\obj\Debug\netcoreapp3.1\Lista2deExercicios.dll
+C:\Users\thiag\source\repos\Lista2deExercicios\Lista2deExercicios\obj\Debug\netcoreapp3.1\Lista2deExercicios.pdb
+C:\Users\thiag\source\repos\Lista2deExercicios\Lista2deExercicios\obj\Debug\netcoreapp3.1\Lista2deExercicios.genruntimeconfig.cache
